@@ -27,13 +27,17 @@ I'm a Computer Science Engineering student passionate about programming, softwar
 
 ### 📌 Projects
 
-**Drowsy Eye Detector**
+## 📌 Projects
 
-An academic mini project focused on detecting signs of driver drowsiness to contribute towards road safety.
+### 🚗 Driver Drowsiness Detection System
+
+An academic mini-project developed using Python and Arduino to identify signs of driver drowsiness through camera-based eye monitoring.
+
+**Technologies:** Python, OpenCV, Dlib, Arduino Uno.
+
+🔗 [View Project Repository](https://github.com/mdghaziuddinamaan-codes/Driver-Drowsiness-Detection)
 
 More projects coming soon!
-
-### 🤝 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/mdghaziuddinamaan/
 - **GitHub:** [mdghaziuddinama​an-codes](https://github.com/mdghaziuddinamaan-codes)
