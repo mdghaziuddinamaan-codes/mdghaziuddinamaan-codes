@@ -17,8 +17,6 @@ I'm a Computer Science Engineering student passionate about programming, softwar
 
 ### 🛠️ Languages & Tools
 
-## 🛠️ Languages & Tools
-
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,8 +26,6 @@ I'm a Computer Science Engineering student passionate about programming, softwar
 </p>
 
 **Core Concepts:** Data Structures | Algorithms | Problem Solving
-
-### 📌 Projects
 
 ## 📌 Projects
 
