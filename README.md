@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Amaan
+# Hey there! 👋 I'm Md Ghaziuddin Amaan
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
 
