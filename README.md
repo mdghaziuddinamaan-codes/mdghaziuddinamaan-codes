@@ -35,7 +35,7 @@ More projects coming soon!
 
 ### 🤝 Connect With Me
 
-- **LinkedIn:** .https://www.linkedin.com/in/mdghaziuddinamaan/
+- **LinkedIn:** https://www.linkedin.com/in/mdghaziuddinamaan/
 - **GitHub:** [mdghaziuddinama​an-codes](https://github.com/mdghaziuddinamaan-codes)
 
 ---
