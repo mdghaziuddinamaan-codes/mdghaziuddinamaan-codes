@@ -15,9 +15,15 @@ I'm a Computer Science Engineering student passionate about programming, softwar
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** C, Python
-- **Computer Science:** Data Structures, Algorithms
-- **Core Skills:** Problem Solving, Teamwork
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**Core Concepts:** Data Structures | Algorithms | Problem Solving
 
 ### 📌 Projects
 
