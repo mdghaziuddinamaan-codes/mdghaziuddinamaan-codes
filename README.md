@@ -39,8 +39,10 @@ An academic mini-project developed using Python and Arduino to identify signs of
 
 More projects coming soon!
 
-- **LinkedIn:** https://www.linkedin.com/in/mdghaziuddinamaan/
-- **GitHub:** [mdghaziuddinama​an-codes](https://github.com/mdghaziuddinamaan-codes)
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mdghaziuddinamaan/)
+- 🐙 **GitHub:** [Visit my GitHub profile](https://github.com/mdghaziuddinamaan-codes)
 
 ---
 
